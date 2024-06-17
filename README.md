@@ -62,8 +62,8 @@ git clone https://github.com/ufedev/30-Dias-de-Python.git
 
 ```
 
-- [Día 1 "Hola Mundo"](/dia1/README.md)
-- [Día 2 Input y Variables](/dia2/README.md)
-- [Día 3 Concatenar Textos](/dia3/README.md)
-- [Día 4 Transformar Textos](/dia4/README.md)
-- [Día 5 Operaciones Aritmeticas](/dia5/README.md)
+- [Día 1 "Hola Mundo"](/dia1)
+- [Día 2 Input y Variables](/dia2)
+- [Día 3 Concatenar Textos](/dia3)
+- [Día 4 Transformar Textos](/dia4)
+- [Día 5 Operaciones Aritmeticas](/dia5)

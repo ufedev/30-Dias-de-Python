@@ -1,4 +1,4 @@
-## [30-Días-de-Python](./../README.md)
+## [30-Días-de-Python](./..)
 
 # Día 4
 
