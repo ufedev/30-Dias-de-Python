@@ -67,3 +67,4 @@ git clone https://github.com/ufedev/30-Dias-de-Python.git
 - [Día 3 Concatenar Textos](/dia3)
 - [Día 4 Transformar Textos](/dia4)
 - [Día 5 Operaciones Aritmeticas](/dia5)
+- [Día 6 Condicionales](/dia6)
