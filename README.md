@@ -61,8 +61,7 @@ Puedes clonar el respositorio
 git clone https://github.com/ufedev/30-Dias-de-Python.git
 
 ```
-> [!NOTE]
-> Se va a ir actualizando de a poco, esto incluira videos
+
 - [Día 1 "Hola Mundo"](/dia1)
 - [Día 2 Input y Variables](/dia2)
 - [Día 3 Concatenar Textos](/dia3)
