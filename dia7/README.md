@@ -52,7 +52,7 @@ print(mi_otra_lista[1])
 
 ```
 
-como vemos arriba, detro del print para acceder a un valor únicamente hay que escribir [] seguido del nombre de la variable que contiene la lista, y dentro de estos [indice] colocar el _indice_
+como vemos arriba, detro del print para acceder a un valor únicamente hay que escribir [] despues del nombre de la variable que contiene la lista, y dentro de estos [indice] colocar el _indice_
 
 ```python
 mi_otra_lista[indice] <-
@@ -246,3 +246,9 @@ print(mi_diccionario)
 
 > [!TIP]
 > Ejecuta el código para ver como funciona
+
+# Ejercicio
+
+A partir de una lista vacia, agrega contenido y por cada vez que agregas contenido muestra la lista.
+
+# Día completado 👏
