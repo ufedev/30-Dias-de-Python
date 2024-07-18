@@ -69,3 +69,4 @@ git clone https://github.com/ufedev/30-Dias-de-Python.git
 - [Día 5 Operaciones Aritmeticas](/dia5)
 - [Día 6 Condicionales](/dia6)
 - [Día 7 Listas y Tuplas](/dia7)
+- [Día 8 Bucles](/dia8)
